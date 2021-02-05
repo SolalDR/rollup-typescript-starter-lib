@@ -1,4 +1,4 @@
-# Rollup Typescript Starter Lib
+# rollup-typescript-starter-lib
 
 ## Description
 ...
