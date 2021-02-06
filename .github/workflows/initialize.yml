@@ -22,10 +22,10 @@ jobs:
       run: |
         sed -i '/yarn.lock/d' .gitignore
         sed -i '/package-lock.json/d' .gitignore
-    - name: Remove template related content
-      run: |
-        sed -i 's#"description":.*#"description": "",#' package.json
-        sed -i '1,6!d' readme.md
+    # - name: Remove template related content
+    #   run: |
+    #     sed -i 's#"description":.*#"description": "",#' package.json
+    #     sed -i '1,6!d' readme.md
     - name: Clean
       run: rm .github/workflows/initialize.yml
     - name: Push changes
