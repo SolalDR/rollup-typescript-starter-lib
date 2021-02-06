@@ -4,13 +4,10 @@
 [![build](https://github.com/solaldr/rollup-typescript-starter-lib/workflows/build/badge.svg?branch=master)](https://github.com/solaldr/rollup-typescript-starter-lib/actions?workflow=build)
 [![version](https://img.shields.io/github/package-json/v/solaldr/rollup-typescript-starter-lib)](https://github.com/solaldr/rollup-typescript-starter-lib)
 
-Library starter based on rollup and typescript. 
+Library starter based on rollup and typescript. <br>
+Inspired by <a href="https://github.com/juliendargelos/rollup-library">https://github.com/juliendargelos/rollup-library</a>
 
-<sub>[![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/solaldr/rollup-typescript-starter-lib/generate)</sub>### Usage
-
-## How to use 
-
-...
+<sub>[![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/solaldr/rollup-typescript-starter-lib/generate)</sub>
 
 ## How to contribute
 
